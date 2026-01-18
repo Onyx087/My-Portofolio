@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# My-Portofolio
+=======
 # 🎊 Website Portfolio - Upgrade Complete!
 
 ## ✅ Status: SELESAI
@@ -371,3 +374,4 @@ Website portfolio Anda sekarang memiliki:
 ---
 
 **Happy showcasing! 🎊**
+>>>>>>> 562419f (Initial commit: Menambahkan file portofolio)
